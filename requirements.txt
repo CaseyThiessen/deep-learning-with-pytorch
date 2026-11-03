@@ -1,0 +1,30 @@
+# Shared environment for all course notebooks. Use Python 3.12.
+# These pins are carried over from the original cluster environment and setup
+
+# PyTorch and TorchVision (CUDA selection is documented separately).
+torch==2.11.0
+torchvision==0.26.0
+
+# Notebook interface and kernel.
+ipykernel==7.2.0
+ipython==9.10.0
+jupyterlab==4.5.5
+
+# Arrays, plotting, images, tables, and downloads.
+numpy==2.4.3
+matplotlib==3.10.8
+pillow==12.1.1
+pandas==3.0.1
+requests==2.32.5
+tqdm==4.67.3
+kagglehub==1.0.0
+
+# Hugging Face models, SDXL, LoRA, and optional DETR support.
+transformers==5.6.1
+diffusers==0.37.1
+accelerate==1.13.0
+peft==0.19.1
+huggingface_hub==1.11.0
+safetensors==0.7.0
+timm==1.0.26
+scipy==1.17.1
