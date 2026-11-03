@@ -6,7 +6,7 @@ Supplementary material for the Master's course **Deep Learning with PyTorch**, o
 
 The overall course introduces neural networks, backpropagation, and loss functions. Its goal is to teach students to build, train, evaluate, and optimize models with PyTorch. These materials support the **Vision Track**, which covers CNNs, transformers, pre-training, detection, segmentation, vision-language models, image generation, and augmentation.
 
-## Contents
+## Content
 
 - [Python fundamentals](tutorials/01-python-fundamentals/) — Python syntax, NumPy, plotting, and image handling.
 - [Object detection and segmentation](tutorials/02-object-detection-and-segmentation/) — Faster R-CNN, Mask R-CNN, and DETR.
